@@ -1,5 +1,4 @@
 # Predict_Loan_Campaign
-# Predict_Loan_Campaign
 ## Data Description:
 The dataset contains data on 5000 customers. The data include customer demographic information (age, income, etc.), the customer's relationship with the bank 
 (mortgage, securities account, etc.), and the customer response to the last personal loan campaign (Personal Loan).
