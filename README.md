@@ -9,6 +9,11 @@ This case is about a bank (Thera Bank) whose management wants to explore ways of
 This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with a minimal budget.
 ## Objective:
 The classification goal is to predict the likelihood of a liability customer buying personal loans
+## Packages Used
+* Pandas
+* Numpy
+* Matplotlib/Seaborn
+* sklearn
 ## Exploratory Data Analysis
 
 ### ![Personal Loan Vs. Annual Income ($000)](/Images/pic1.png)        ![Personal Loan Vs. Family Size](/Images/pic2.png)
