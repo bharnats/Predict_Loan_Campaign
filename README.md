@@ -11,4 +11,5 @@ This has encouraged the retail marketing department to devise campaigns with bet
 The classification goal is to predict the likelihood of a liability customer buying personal loans
 ## Exploratory Data Analysis
 
-![Personal Loan Vs. Annual Income ($000)](C:/Users/Bharathy_Nat/Pictures/AIML-Images/LoanVsIncome.png)
+### ![Personal Loan Vs. Annual Income ($000)](/Images/pic1.png)        ![Personal Loan Vs. Family Size](/Images/pic2.png)
+### ![Confusion Matrix](/Images/pic3.png)
