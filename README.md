@@ -21,6 +21,6 @@ The classification goal is to predict the likelihood of a liability customer buy
 
     accuracy                           0.87      1500
  
- ## Business Understanding and Inference:
+ ### Business Understanding and Inference:
  
- ### The ROC_AUC Score for this Logit Model is 93.31%. This Logit Model performs well in classifying positive classes from negative classes. (Customers Who will accept Personal Loans Vs. Customers who will not accept loans)
+ #### The ROC_AUC Score for this Logit Model is 93.31%. This Logit Model performs well in classifying positive classes from negative classes. (Customers Who will accept Personal Loans Vs. Customers who will not accept loans)
