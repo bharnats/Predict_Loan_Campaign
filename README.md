@@ -33,6 +33,6 @@ The features that influence the prediction of class 0 for the Target variable (T
 
 Mortgage, Age, Experience, Income and CreditCard DO NOT have much influence on the 'Loan Status'
  
- ### Business Understanding and Inference:
+### Business Understanding and Inference:
  
- #### The ROC_AUC score is high, 0.905, Also the Recall score is high here 0.991 . So, we can say that this Logit Model is performing well in distinguishing positives from negative classes with less False Negatives.
+The ROC_AUC score is high, 0.905, Also the Recall score is high here 0.991 . So, we can say that this Logit Model is performing well in distinguishing positives from negative classes with less False Negatives.
