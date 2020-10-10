@@ -19,13 +19,21 @@ The classification goal is to predict the likelihood of a liability customer buy
 ### ![Personal Loan Vs. Annual Income ($000)](/Images/pic1.png)        ![Personal Loan Vs. Family Size](/Images/pic2.png)
 ### ![Confusion Matrix](/Images/pic3.png)
 
- precision    recall  f1-score   support
+### Feature Importance
 
-           0       0.99      0.87      0.92      1364
-           1       0.40      0.88      0.55       136
+The features that influence the prediction of class 1 for the Target Variable (The customer will accept Personal Loan) are:
 
-    accuracy                           0.87      1500
+* CD Account
+* Family_3
+* Family_4
+The features that influence the prediction of class 0 for the Target variable (The customer will NOT accept Personal Loan) are:
+
+* Education_UG
+* Family_2
+* Online
+
+Mortgage, Age, Experience, Income and CreditCard DO NOT have much influence on the 'Loan Status'
  
  ### Business Understanding and Inference:
  
- #### The ROC_AUC score is high, 0.874, Also the Recall score is high here 0.882 -- So, we can say that this Logit Model is performing well in distinguishing positives from negative classes with less False Negatives.
+ #### The ROC_AUC score is high, 0.905, Also the Recall score is high here 0.991 . So, we can say that this Logit Model is performing well in distinguishing positives from negative classes with less False Negatives.
