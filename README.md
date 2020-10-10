@@ -22,12 +22,11 @@ The classification goal is to predict the likelihood of a liability customer buy
 ### Feature Importance
 
 The features that influence the prediction of class 1 for the Target Variable (The customer will accept Personal Loan) are:
-
 * CD Account
 * Family_3
 * Family_4
-The features that influence the prediction of class 0 for the Target variable (The customer will NOT accept Personal Loan) are:
 
+The features that influence the prediction of class 0 for the Target variable (The customer will NOT accept Personal Loan) are:
 * Education_UG
 * Family_2
 * Online
