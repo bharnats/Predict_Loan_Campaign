@@ -17,7 +17,7 @@ The classification goal is to predict the likelihood of a liability customer buy
 ## Exploratory Data Analysis
 
 ### ![Personal Loan Vs. Annual Income ($000)](/Images/pic1.png)        ![Personal Loan Vs. Family Size](/Images/pic2.png)
-### ![Confusion Matrix](/Images/pic3.png)
+### ![Confusion Matrix](/Images/pic3.png)                              ### ![Reciever Operator Characteristic Curve (ROC)](/Images/pic4.png)
 
 ### Feature Importance
 
